@@ -144,14 +144,9 @@ body .updates-page .updates-scroll-window {
   position: absolute;
   top: 12px;
   left: 14px;
-  width: 1px;
+  width: 2px;
   bottom: 12px;
-  background: linear-gradient(
-    to bottom,
-    var(--upd-rail-top) 0%,
-    rgba(255, 255, 255, 0.06) 60%,
-    var(--upd-rail-bottom) 100%
-  );
+  background: rgba(255, 255, 255, 0.2);
   pointer-events: none;
 }
 
