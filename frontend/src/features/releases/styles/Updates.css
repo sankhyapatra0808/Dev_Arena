@@ -144,7 +144,7 @@ body .updates-page .updates-scroll-window {
   position: absolute;
   top: 12px;
   left: 14px;
-  width: 2px;
+  width: 1px;
   bottom: 12px;
   background: rgba(255, 255, 255, 0.2);
   pointer-events: none;
