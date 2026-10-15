@@ -108,7 +108,7 @@ body .updates-page .updates-layout {
 /* Body lead -- body-lg token */
 .hero-updates p {
   margin: 18px auto 0;
-  max-width: 560px;
+  max-width: 50px;
   color: var(--upd-text-muted);
   font-family: var(--upd-font-body);
   font-size: 16px;
